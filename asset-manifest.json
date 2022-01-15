@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-hjc9p/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-hjc9p/static/js/main.07555d6a.chunk.js",
-    "main.js.map": "https://.github.io/csb-hjc9p/static/js/main.07555d6a.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-hjc9p/static/js/runtime-main.581c6348.js",
-    "runtime-main.js.map": "https://.github.io/csb-hjc9p/static/js/runtime-main.581c6348.js.map",
-    "static/js/2.d3414248.chunk.js": "https://.github.io/csb-hjc9p/static/js/2.d3414248.chunk.js",
-    "static/js/2.d3414248.chunk.js.map": "https://.github.io/csb-hjc9p/static/js/2.d3414248.chunk.js.map",
-    "index.html": "https://.github.io/csb-hjc9p/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-hjc9p/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.d3414248.chunk.js.LICENSE.txt": "https://.github.io/csb-hjc9p/static/js/2.d3414248.chunk.js.LICENSE.txt"
+    "main.css": "https://teeejaey.github.io/csb-hjc9p/static/css/main.60216899.chunk.css",
+    "main.js": "https://teeejaey.github.io/csb-hjc9p/static/js/main.f300be14.chunk.js",
+    "main.js.map": "https://teeejaey.github.io/csb-hjc9p/static/js/main.f300be14.chunk.js.map",
+    "runtime-main.js": "https://teeejaey.github.io/csb-hjc9p/static/js/runtime-main.842229df.js",
+    "runtime-main.js.map": "https://teeejaey.github.io/csb-hjc9p/static/js/runtime-main.842229df.js.map",
+    "static/js/2.b20e114a.chunk.js": "https://teeejaey.github.io/csb-hjc9p/static/js/2.b20e114a.chunk.js",
+    "static/js/2.b20e114a.chunk.js.map": "https://teeejaey.github.io/csb-hjc9p/static/js/2.b20e114a.chunk.js.map",
+    "index.html": "https://teeejaey.github.io/csb-hjc9p/index.html",
+    "static/css/main.60216899.chunk.css.map": "https://teeejaey.github.io/csb-hjc9p/static/css/main.60216899.chunk.css.map",
+    "static/js/2.b20e114a.chunk.js.LICENSE.txt": "https://teeejaey.github.io/csb-hjc9p/static/js/2.b20e114a.chunk.js.LICENSE.txt",
+    "static/media/typing.gif": "https://teeejaey.github.io/csb-hjc9p/static/media/typing.3988f244.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.581c6348.js",
-    "static/js/2.d3414248.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.07555d6a.chunk.js"
+    "static/js/runtime-main.842229df.js",
+    "static/js/2.b20e114a.chunk.js",
+    "static/css/main.60216899.chunk.css",
+    "static/js/main.f300be14.chunk.js"
   ]
 }
